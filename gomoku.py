@@ -1,3 +1,7 @@
+# This program creates a gomoku game for two players and opens a graphical user interface when the program is run
+# The player who first forms an unbroken chain of five stones wins the game 
+
+# install and import pygame 
 import pygame
 from pygame.locals import *
 
